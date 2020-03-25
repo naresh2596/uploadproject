@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nunitproject", "nunitproject.csproj", "{8013824B-7FE6-492D-B98B-6F1262193E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8013824B-7FE6-492D-B98B-6F1262193E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8013824B-7FE6-492D-B98B-6F1262193E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8013824B-7FE6-492D-B98B-6F1262193E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8013824B-7FE6-492D-B98B-6F1262193E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
